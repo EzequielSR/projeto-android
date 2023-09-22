@@ -158,7 +158,6 @@ aside > h3 {
   border-radius: 10px 10px 0px 0px;
 }
 aside > ul {
-  border: 1px solid red;
   list-style-type: "\2714\00A0\00A0";
   list-style-position: inside;
   columns: 2;
